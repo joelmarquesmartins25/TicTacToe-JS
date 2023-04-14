@@ -17,6 +17,12 @@ Desenvolver um jogo da velha para dois jogadores utilizando apenas HTML, CSS e J
 ![image](https://user-images.githubusercontent.com/111138372/231947204-6a31bbd3-99f2-4ab0-9481-32caff514ef1.png)
 ![image](https://user-images.githubusercontent.com/111138372/231947701-9457ab3d-e013-42b6-935f-e872954d4ec6.png)
 
+## Como rodar o projeto
+
+- Clonar o repositório em sua máquina usando `git clone https://github.com/joelmarquesmartins25/TicTacToe-JS`;
+- Para jogar basta abrir o arquivo index.html com qualquer navegador;
+- Para fazer alterações, basta abrir a pasta em uma IDE, como o Visual Studio Code;
+
 ## 💻 Tecnologias Utilizadas
 
 - IDE: Microsoft Visual Studio Code - v1.77.3
